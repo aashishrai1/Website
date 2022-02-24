@@ -1,0 +1,16 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+    display: flex;
+}
+
+.logo{
+    flex: 1 ;
+}
+
+.header-title{
+    flex: 10;
+}
